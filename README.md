@@ -1,1 +1,1 @@
-# math-division-game
+# math multiplication game for kids
